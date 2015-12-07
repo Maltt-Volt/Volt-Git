@@ -60,6 +60,7 @@
 - Collaborer
 	
 - Comment ca marche en vrai?
+- ca a l'air compliqué au début..
 
 La terminologie:
 Push
