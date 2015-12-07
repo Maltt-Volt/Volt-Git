@@ -1,6 +1,6 @@
-#########
+﻿#########
 #
-#  GIT
+#  GIT 
 #
 #########
 - Pourquoi?
@@ -59,7 +59,7 @@
 	- cliquer fork
 - Collaborer
 	
-
+- Comment ca marche en vrai?
 
 La terminologie:
 Push
